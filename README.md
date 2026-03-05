@@ -62,8 +62,7 @@ Sistem Monitoring Warga Desa adalah aplikasi berbasis web yang digunakan untuk m
 
 1. **Clone repositori**
    ```bash
-   git clone https://github.com/username/monitoring-desa.git
-   cd monitoring-desa
+   git clone ------
    ```
 
 2. **Install dependensi dengan Composer**
